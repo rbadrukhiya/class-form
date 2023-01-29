@@ -1,0 +1,14 @@
+body{
+  text-transform: capitalize;
+}
+.tb-2{
+  margin-top: 20px;
+}
+table{
+  padding: 4px!important;
+
+}
+td{
+  padding: 5px!important;
+
+}
